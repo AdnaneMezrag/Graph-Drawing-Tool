@@ -22,7 +22,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-repo/graph-drawing-tool.git
+git clone https://github.com/AdnaneMezrag/Graph-Drawing-Tool.git
 Navigate to the project directory
 
 Build the project using your IDE’s build tools, and run: Graphical_User_Interface.clsUserInterface.
